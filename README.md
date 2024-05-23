@@ -18,6 +18,7 @@ A sample ASP.NET Core Web API project demonstrating CRUD operations for managing
 - Swagger for API documentation
 
 ## Technologies Used
+- C#
 - ASP.NET Core
 - Entity Framework Core
 - Swagger
